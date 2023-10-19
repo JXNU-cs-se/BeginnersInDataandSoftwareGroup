@@ -30,6 +30,8 @@
   介绍小组从2023年以来投稿和发表的论文情况；2022年以来软著和获奖情况:
 
 ### 1. 已发表论文：
+1.  HongWei Li; JiangLing Kuang; Maosheng Zhong; ZhiXiang Wang; Gen Liu; GanLin Liu; YingJian Xiao,  CodeGen-Search: A Code Generation Model Incorporating Similar Sample Information
+International Journal of Software Engineering and Knowledge Engineering ,2023.09,  DOI: 10.1142/S0218194023500584
 
 
 ### 2. 软件著作权：
@@ -45,8 +47,8 @@
 
 
 ### 4.投稿论文：
-1. 一种增强代码理解的代码可视化工具JavaCity  
-2. CodeGen-Search: A code generation model incorporating similar sample information
+1. 一种增强代码理解的代码可视化工具JavaCity 
+2. CodeGen-Search: A code generation model incorporating similar sample information (accepted by IJSEKE)
 3. 融入程序控制流结构信息的代码注释生成
 4. 于图卷积神经网络和层次注意力网络的软件缺陷预测方法
 5. 一种代码克隆的可视化工具CloneJavaCity
