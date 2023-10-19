@@ -30,8 +30,9 @@
   介绍小组从2023年以来投稿和发表的论文情况；2022年以来软著和获奖情况:
 
 ### 1. 已发表论文：
-1.  HongWei Li; JiangLing Kuang; Maosheng Zhong; ZhiXiang Wang; Gen Liu; GanLin Liu; YingJian Xiao,  CodeGen-Search: A Code Generation Model Incorporating Similar Sample Information
-International Journal of Software Engineering and Knowledge Engineering ,2023.09,  DOI: 10.1142/S0218194023500584
+1.  HongWei Li; JiangLing Kuang; Maosheng Zhong; ZhiXiang Wang; Gen Liu; GanLin Liu; YingJian Xiao,  CodeGen-Search: A Code Generation Model Incorporating Similar Sample Information, International Journal of Software Engineering and Knowledge Engineering ,2023.09,  DOI: 10.1142/S0218194023500584
+2.  Zeng, Jinshan; Xu, Ruiying; Wu, Yu; Li, Hongwei; Lu, Jiaxing, Zero-Shot Chinese Character Recognition with Stroke- and Radical-Level Decomposition, International Joint Conference on Neural Networks (IJCNN) 2023, DOI: 10.1109/IJCNN54540.2023.10191050 WOSUID: WOS:001046198700017
+ 
 
 
 ### 2. 软件著作权：
