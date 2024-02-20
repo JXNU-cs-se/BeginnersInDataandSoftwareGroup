@@ -1,4 +1,4 @@
-# BeginnersInDataandSoftwareGroup
+# Beginners In Data and Software Group
 
 这个项目主要用于“数据与软件创新”的知识入门、科研记录等。请加入我们团队的所有老师和同学共同维护。
 主要内容有：
@@ -30,8 +30,8 @@
   介绍小组从2023年以来投稿和发表的论文情况；2022年以来软著和获奖情况:
 
 ### 1. 已发表论文：
-1.  HongWei Li; JiangLing Kuang; Maosheng Zhong; ZhiXiang Wang; Gen Liu; GanLin Liu; YingJian Xiao,  CodeGen-Search: A Code Generation Model Incorporating Similar Sample Information, International Journal of Software Engineering and Knowledge Engineering ,2023.09,  DOI: 10.1142/S0218194023500584
-2.  Zeng, Jinshan; Xu, Ruiying; Wu, Yu; Li, Hongwei; Lu, Jiaxing, Zero-Shot Chinese Character Recognition with Stroke- and Radical-Level Decomposition, International Joint Conference on Neural Networks (IJCNN) 2023, DOI: 10.1109/IJCNN54540.2023.10191050 WOSUID: WOS:001046198700017
+1)      Li H W , Kuang J L , Zhong M S ,et al.CodeGen-Search: A Code Generation Model Incorporating Similar Sample Information[J].International Journal of Software Engineering and Knowledge Engineering, 2023, 33(11n12):1899-1921.DOI:10.1142/S0218194023500584. (SCI 期刊论文)2024
+2)      Zeng, J., Xu, R., Wu, Y., Li, H., & Lu, J. (2023, June). Zero-Shot Chinese Character Recognition with Stroke-and Radical-Level Decompositions. In 2023 International Joint Conference on Neural Networks (IJCNN), pp. 1-9, IEEE, 2023, doi: 10.1109/IJCNN54540.2023.10191050.
  
 
 
