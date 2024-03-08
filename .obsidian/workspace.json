@@ -11,8 +11,12 @@
             "id": "fb5f21fe60a1c67f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "数据与软件创新小组基础知识.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "数据与软件创新小组基础知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "数据与软件创新小组基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "数据与软件创新小组基础知识.md"
+              }
             }
           }
         ]
@@ -140,6 +148,8 @@
   },
   "active": "fb5f21fe60a1c67f",
   "lastOpenFiles": [
+    "Pasted image 20240308162059.png",
+    "Pasted image 20240308162019.png",
     "数据与软件创新小组基础知识.md",
     "各位研究生工作相关推荐论文.md",
     "README.md"
