@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "503beff8753bf5a1",
+        "id": "96613043fbfdec9d",
         "type": "tabs",
         "children": [
           {
-            "id": "e9a66be8c0168bef",
+            "id": "d1a47e2e0b6b63e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,7 +146,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e9a66be8c0168bef",
+  "active": "d1a47e2e0b6b63e4",
   "lastOpenFiles": [
     "数据与软件创新小组基础知识.md",
     "各位研究生工作相关推荐论文.md",
