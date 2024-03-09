@@ -12,6 +12,8 @@
   介绍前端、后端开发知识的学习清单
 5. [各位研究生工作相关推荐论文.md](https://github.com/JXNU-cs-se/BeginnersInDataandSoftwareGroup/blob/main/%E5%90%84%E4%BD%8D%E7%A0%94%E7%A9%B6%E7%94%9F%E5%B7%A5%E4%BD%9C%E7%9B%B8%E5%85%B3%E6%8E%A8%E8%8D%90%E8%AE%BA%E6%96%87.md)
   介绍各位研究生目前可选的研究方向和想法，以及一些论文清单项目和可以复现的开源项目  
+  6. [每日见闻清单.md](https://github.com/JXNU-cs-se/BeginnersInDataandSoftwareGroup/blob/main/每日见闻清单.md)  收集各类有趣的GitHub项目、资料等信息。
+
 
 ## 小组学生获奖情况：
 1. 2021年第四届中国虚拟现实大赛（江西赛区） 三等奖 ， 《VR城市隐喻应用于软件工程教学》，学生：肖英剑，刘子阳，匡江玲，刘根，指导老师：李宏伟，揭安全；发证单位：中国计算机学会，中国图像图形学会，中国仿真学会（2021年10月8日）

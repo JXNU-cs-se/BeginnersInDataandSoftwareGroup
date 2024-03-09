@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7a9faaa0591b4326",
+        "id": "5a0ead5ce64ff666",
         "type": "tabs",
         "children": [
           {
-            "id": "fb5f21fe60a1c67f",
+            "id": "9024bfe093c94c3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据与软件创新小组基础知识.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据与软件创新小组基础知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据与软件创新小组基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "数据与软件创新小组基础知识.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fb5f21fe60a1c67f",
+  "active": "9024bfe093c94c3a",
   "lastOpenFiles": [
+    "README.md",
+    "数据与软件创新小组基础知识.md",
+    "每日见闻清单.md",
     "Pasted image 20240308162059.png",
     "Pasted image 20240308162019.png",
-    "数据与软件创新小组基础知识.md",
-    "各位研究生工作相关推荐论文.md",
-    "README.md"
+    "各位研究生工作相关推荐论文.md"
   ]
 }
