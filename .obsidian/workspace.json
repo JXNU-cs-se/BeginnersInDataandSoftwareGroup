@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5a0ead5ce64ff666",
+        "id": "45b313461c0bc9bf",
         "type": "tabs",
         "children": [
           {
-            "id": "9024bfe093c94c3a",
+            "id": "2e4ca16eccfa6c77",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 341.5
   },
   "right": {
     "id": "16b11eaf573cce58",
@@ -138,11 +138,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9024bfe093c94c3a",
+  "active": "2e4ca16eccfa6c77",
   "lastOpenFiles": [
+    "每日见闻清单.md",
+    "每日见闻/GitHub每日见闻20240310.md",
+    "每日见闻/Pasted image 20240310150001.png",
+    "每日见闻/Pasted image 20240310145737.png",
+    "每日见闻/Pasted image 20240310151407.png",
+    "每日见闻/Pasted image 20240310150758.png",
+    "每日见闻",
     "README.md",
     "数据与软件创新小组基础知识.md",
-    "每日见闻清单.md",
     "Pasted image 20240308162059.png",
     "Pasted image 20240308162019.png",
     "各位研究生工作相关推荐论文.md"
