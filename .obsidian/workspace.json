@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "45b313461c0bc9bf",
+        "id": "fb0bc83072f7343b",
         "type": "tabs",
         "children": [
           {
-            "id": "2e4ca16eccfa6c77",
+            "id": "5bdd4847630e0cb4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "每日见闻/Pasted image 20240311194409.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "每日见闻/Pasted image 20240311194409.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "每日见闻/Pasted image 20240311194409.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "每日见闻/Pasted image 20240311194409.png"
+              }
             }
           }
         ]
@@ -138,19 +144,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2e4ca16eccfa6c77",
+  "active": "5bdd4847630e0cb4",
   "lastOpenFiles": [
-    "每日见闻清单.md",
+    "每日见闻/Pasted image 20240311193450.png",
+    "每日见闻/GitHub每日见闻20240311.md",
+    "每日见闻/Pasted image 20240311195439.png",
+    "每日见闻/Pasted image 20240311195157.png",
+    "每日见闻/Pasted image 20240311195106.png",
     "每日见闻/GitHub每日见闻20240310.md",
+    "每日见闻/Pasted image 20240311194730.png",
+    "每日见闻/Pasted image 20240308162019.png",
+    "每日见闻/Pasted image 20240308162059.png",
+    "每日见闻/Pasted image 20240311194409.png",
+    "每日见闻清单.md",
     "每日见闻/Pasted image 20240310150001.png",
     "每日见闻/Pasted image 20240310145737.png",
-    "每日见闻/Pasted image 20240310151407.png",
-    "每日见闻/Pasted image 20240310150758.png",
     "每日见闻",
     "README.md",
     "数据与软件创新小组基础知识.md",
-    "Pasted image 20240308162059.png",
-    "Pasted image 20240308162019.png",
     "各位研究生工作相关推荐论文.md"
   ]
 }
