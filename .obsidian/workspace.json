@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90bbbc79cf59a0ce",
+        "id": "a10b78fe578fbad6",
         "type": "tabs",
         "children": [
           {
-            "id": "d8b4988781167764",
+            "id": "290cd7e2ad4df975",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d8b4988781167764",
+  "active": "290cd7e2ad4df975",
   "lastOpenFiles": [
+    "数据与软件创新小组基础知识.md",
     "各位研究生工作相关推荐论文.md",
     "每日见闻清单.md",
     "每日见闻/Pasted image 20240312201032.png",
@@ -164,7 +165,6 @@
     "每日见闻/Pasted image 20240308162059.png",
     "每日见闻/Pasted image 20240310150001.png",
     "每日见闻",
-    "README.md",
-    "数据与软件创新小组基础知识.md"
+    "README.md"
   ]
 }
