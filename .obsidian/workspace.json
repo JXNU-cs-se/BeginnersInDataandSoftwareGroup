@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eff6d4b0ac10f0f9",
+        "id": "257111d0570d2faa",
         "type": "tabs",
         "children": [
           {
-            "id": "1b4b535eea204acb",
+            "id": "f3ca993cbfa296bf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -121,33 +121,34 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "1b4b535eea204acb",
+  "active": "f3ca993cbfa296bf",
   "lastOpenFiles": [
+    "小组成员介绍.md",
+    "各位研究生工作相关推荐论文.md",
+    "数据与软件创新小组基础知识.md",
+    "一整套超实用论文写作模板.pdf",
     "未命名 1.canvas",
     "未命名.canvas",
     "小组论文发表软著和获奖情况.md",
-    "各位研究生工作相关推荐论文.md",
     "每日见闻清单.md",
-    "数据与软件创新小组基础知识.md",
     "硕士阶段开发知识学习清单.md",
-    "小组成员介绍.md",
     "每日见闻/Pasted image 20240312201032.png",
     "每日见闻/Pasted image 20240308162019.png",
     "每日见闻/GitHub每日见闻20240312.md",
