@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "04647e2ad51440a1",
+        "id": "2c74b851c8a09c93",
         "type": "tabs",
         "children": [
           {
-            "id": "e1da34248a679310",
+            "id": "37e2889c985d950a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1da34248a679310",
+  "active": "37e2889c985d950a",
   "lastOpenFiles": [
     "README.md",
     "小组论文发表软著和获奖情况.md",
