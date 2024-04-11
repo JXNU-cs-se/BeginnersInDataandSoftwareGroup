@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9da739c7984b98a2",
+        "id": "79344c0ef7685646",
         "type": "tabs",
         "children": [
           {
-            "id": "5ba91b0f47cdc808",
+            "id": "9f368cc830c12fc3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "小组成员介绍.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "小组成员介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "小组成员介绍.md"
+              }
             }
           }
         ],
@@ -138,12 +142,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ba91b0f47cdc808",
+  "active": "4cbb740a497af4c5",
   "lastOpenFiles": [
-    "README.md",
-    "小组论文发表软著和获奖情况.md",
-    "小组成员介绍.md",
     "数据与软件创新小组基础知识.md",
+    "小组论文发表软著和获奖情况.md",
+    "README.md",
+    "小组成员介绍.md",
     "各位研究生工作相关推荐论文.md",
     "一整套超实用论文写作模板.pdf",
     "未命名 1.canvas",
