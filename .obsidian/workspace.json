@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e8eeae415c7d5d17",
+        "id": "04647e2ad51440a1",
         "type": "tabs",
         "children": [
           {
-            "id": "a00bfd91736d47d7",
+            "id": "e1da34248a679310",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据与软件创新小组基础知识.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据与软件创新小组基础知识.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据与软件创新小组基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "数据与软件创新小组基础知识.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,12 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a00bfd91736d47d7",
+  "active": "e1da34248a679310",
   "lastOpenFiles": [
+    "README.md",
     "小组论文发表软著和获奖情况.md",
+    "数据与软件创新小组基础知识.md",
     "小组成员介绍.md",
     "各位研究生工作相关推荐论文.md",
-    "数据与软件创新小组基础知识.md",
     "一整套超实用论文写作模板.pdf",
     "未命名 1.canvas",
     "未命名.canvas",
@@ -170,7 +163,6 @@
     "每日见闻/Pasted image 20240311194730.png",
     "每日见闻/Pasted image 20240308162059.png",
     "每日见闻/Pasted image 20240310150001.png",
-    "每日见闻",
-    "README.md"
+    "每日见闻"
   ]
 }
