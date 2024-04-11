@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c74b851c8a09c93",
+        "id": "9da739c7984b98a2",
         "type": "tabs",
         "children": [
           {
-            "id": "37e2889c985d950a",
+            "id": "5ba91b0f47cdc808",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 218.5
   },
   "right": {
     "id": "16b11eaf573cce58",
@@ -126,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,12 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37e2889c985d950a",
+  "active": "5ba91b0f47cdc808",
   "lastOpenFiles": [
     "README.md",
     "小组论文发表软著和获奖情况.md",
-    "数据与软件创新小组基础知识.md",
     "小组成员介绍.md",
+    "数据与软件创新小组基础知识.md",
     "各位研究生工作相关推荐论文.md",
     "一整套超实用论文写作模板.pdf",
     "未命名 1.canvas",
