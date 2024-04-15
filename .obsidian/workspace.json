@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "79344c0ef7685646",
+        "id": "6c75bc4ccbf4e1ae",
         "type": "tabs",
         "children": [
           {
-            "id": "9f368cc830c12fc3",
+            "id": "a3883f12c67f68c6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "小组成员介绍.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "小组成员介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "小组成员介绍.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -134,15 +130,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "4cbb740a497af4c5",
+  "active": "a3883f12c67f68c6",
   "lastOpenFiles": [
     "数据与软件创新小组基础知识.md",
     "小组论文发表软著和获奖情况.md",
