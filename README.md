@@ -14,9 +14,9 @@
 
 
 # 1. 投稿论文
-1. 《DeepCom-GCN:一种融入程序控制流结构信息的代码注释生成模型》 , 软件学报, 钟茂生, 匡江玲, 李宏伟, 王志祥，刘会珠 
-2. 《基于图卷积神经网络和层次注意力网络的软件缺陷预测方法》 （揭安全，肖英剑，李宏伟，程柏良，王烨锴，罗荣）  软件学报  
-3. 《一种代码克隆的可视化工具CloneJavaCity》  （肖英剑，揭安全，李宏伟，程柏良，吴思渺，李延康，钟崇文）   计算机应用研究 
+1. 《DeepCom-GCN:一种融入程序控制流结构信息的代码注释生成模型》 ,  钟茂生, 匡江玲, 李宏伟, 王志祥，刘会珠 
+2. 《基于图卷积神经网络和层次注意力网络的软件缺陷预测方法》 （揭安全，肖英剑，李宏伟，程柏良，王烨锴，罗荣）  
+3. 《一种代码克隆的可视化工具CloneJavaCity》  （肖英剑，揭安全，李宏伟，程柏良，吴思渺，李延康，钟崇文）  
 4. 《基于BERT-FastText模型的岗位分类》万剑怡，吴思渺，程柏良，李宏伟，李延康，董瑞志
 5. 《一种无监督的指数权重衰减关键词提取方法》揭安全，王烨锴，李宏伟，罗荣，周新宇
 
@@ -25,7 +25,9 @@
 1. Jinshan Zeng, Ruiying Xu, Yu Wu, Hongwei Li and Jiaxing Lu， Zero-Shot Chinese Character Recognition with Stroke- and Radical-Level Decompositions [C], 2023 International Joint Conference on Neural Networks (IJCNN 2023), pp.1-9, IEEE, 2023.
 2.  HongWei Li, JiangLing Kuang, Maosheng Zhong, ZhiXiang Wang,Gen Liu,GanLin Liu, and YingJian Xiao, CodeGen-Search: A Code Generation Model Incorporating Similar Sample Information [J], International Journal of Software Engineering and Knowledge Engineering, 2023. 33(11&12):1899-1921 (SCI 期刊论文)（B类期刊）
 3. 肖英剑,揭安全*,李宏伟*,钟崇文, 罗荣.一种增强代码理解的代码可视化工具JavaCity[J].江西师范大学学报(自然科学版),2023,(06):652-660.[doi:10.16357/j.cnki.issn1000-5862.2023.06.13] 
-4. 
+4. Xu Zhang, Hongwei Li1*, Bailiang Cheng, Shuwei Peng, and Zikun Zhang. I3En: A Multi-Level Iterative Low-Light Enhancement Network Based on Sketch Prior Guidance. In PRCV’2024 (2024) . [21级本科生 张旭 发表在CCF C会英文论文]
+5. Jiagui Xiong, Hua Chen, Jiayu Hu, Xinyu Zhou, Wenlong Ni, Hongwei Li. Knowledge Tracing Method Based on Enhanced Global and Local Knowledge State Representation. In ICONIP 2024.
+6. Jiayu Hu, Hua Chen, Jiagui Xiong, Hongwei Li. A study on Enhancing Graph-Based Knowledge Tracing through Question Interaction. In ISAIR2024. 
 
 # 3. 软著（23年以来）
 1. 将教育厅项目：《注释与代码实现一致性分布及可视化的研究》进行成果转化，获得软件著作权：《VR城市隐喻的代码可视化平台 V1.0》（登记号：2022SR1385109）,肖英剑, 李宏伟, 程柏良, 揭安全,（2022年9月30日）
