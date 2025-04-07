@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3990e47e49dcc9b8",
+        "id": "d15f98ab682fb72e",
         "type": "tabs",
         "children": [
           {
-            "id": "6578fc0e166e04dd",
+            "id": "0563a9634a556dfd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "收集的AI工具网址.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "收集的AI工具网址"
             }
           }
         ]
@@ -134,11 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "小组论文发表软著和获奖情况.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "小组论文发表软著和获奖情况 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -159,16 +161,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6578fc0e166e04dd",
+  "active": "0563a9634a556dfd",
   "lastOpenFiles": [
-    "小组论文发表软著和获奖情况.md",
     "README.md",
-    "小组成员介绍.md",
-    "硕士阶段开发知识学习清单.md",
     "数据与软件创新小组基础知识.md",
+    "收集的AI工具网址.md",
+    "硕士阶段开发知识学习清单.md",
+    "小组成员介绍.md",
+    "各位研究生工作相关推荐论文.md",
+    "小组论文发表软著和获奖情况.md",
     "资源文档",
     "资源文档/一整套超实用论文写作模板.pdf",
-    "各位研究生工作相关推荐论文.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "每日见闻清单.md",

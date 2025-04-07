@@ -12,4 +12,5 @@
 5. [各位研究生工作相关推荐论文.md](https://github.com/JXNU-cs-se/BeginnersInDataandSoftwareGroup/blob/main/%E5%90%84%E4%BD%8D%E7%A0%94%E7%A9%B6%E7%94%9F%E5%B7%A5%E4%BD%9C%E7%9B%B8%E5%85%B3%E6%8E%A8%E8%8D%90%E8%AE%BA%E6%96%87.md)
   介绍各位研究生目前可选的研究方向和想法，以及一些论文清单项目和可以复现的开源项目  
   6. [每日见闻清单.md](https://github.com/JXNU-cs-se/BeginnersInDataandSoftwareGroup/blob/main/每日见闻清单.md)  收集各类有趣的GitHub项目、资料等信息。
+  7. [收集的AI工具网址](obsidian://open?vault=BeginnersInDataandSoftwareGroup&file=%E6%94%B6%E9%9B%86%E7%9A%84AI%E5%B7%A5%E5%85%B7%E7%BD%91%E5%9D%80) 最新的大模型、Agent、MCP等
 
