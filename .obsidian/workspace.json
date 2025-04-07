@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5bc1775b4f46a6df",
+        "id": "3990e47e49dcc9b8",
         "type": "tabs",
         "children": [
           {
-            "id": "5e970df7369fb785",
+            "id": "6578fc0e166e04dd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,10 +159,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5e970df7369fb785",
+  "active": "6578fc0e166e04dd",
   "lastOpenFiles": [
-    "README.md",
     "小组论文发表软著和获奖情况.md",
+    "README.md",
     "小组成员介绍.md",
     "硕士阶段开发知识学习清单.md",
     "数据与软件创新小组基础知识.md",
