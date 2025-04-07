@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d15f98ab682fb72e",
+        "id": "6241b03612987f55",
         "type": "tabs",
         "children": [
           {
-            "id": "0563a9634a556dfd",
+            "id": "5998e84c1cebddb4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "收集的AI工具网址.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "收集的AI工具网址"
+              "title": "新标签页"
             }
           }
         ]
@@ -161,11 +157,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0563a9634a556dfd",
+  "active": "5998e84c1cebddb4",
   "lastOpenFiles": [
+    "收集的AI工具网址.md",
     "README.md",
     "数据与软件创新小组基础知识.md",
-    "收集的AI工具网址.md",
     "硕士阶段开发知识学习清单.md",
     "小组成员介绍.md",
     "各位研究生工作相关推荐论文.md",
