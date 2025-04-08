@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6241b03612987f55",
+        "id": "7da01e4594b6851e",
         "type": "tabs",
         "children": [
           {
-            "id": "5998e84c1cebddb4",
+            "id": "63ce2a584140cce6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,7 +157,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5998e84c1cebddb4",
+  "active": "63ce2a584140cce6",
   "lastOpenFiles": [
     "收集的AI工具网址.md",
     "README.md",
