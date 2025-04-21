@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7da01e4594b6851e",
+        "id": "df226ab3dc7b3963",
         "type": "tabs",
         "children": [
           {
-            "id": "63ce2a584140cce6",
+            "id": "decea8f8812773d1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -157,15 +158,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "63ce2a584140cce6",
+  "active": "decea8f8812773d1",
   "lastOpenFiles": [
     "收集的AI工具网址.md",
+    "小组成员介绍.md",
+    "小组论文发表软著和获奖情况.md",
+    "各位研究生工作相关推荐论文.md",
     "README.md",
     "数据与软件创新小组基础知识.md",
     "硕士阶段开发知识学习清单.md",
-    "小组成员介绍.md",
-    "各位研究生工作相关推荐论文.md",
-    "小组论文发表软著和获奖情况.md",
     "资源文档",
     "资源文档/一整套超实用论文写作模板.pdf",
     "未命名 1.canvas",

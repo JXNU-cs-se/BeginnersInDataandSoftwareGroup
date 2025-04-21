@@ -67,5 +67,5 @@
 31. [****]  https://github.com/HqWu-HITCS/Awesome-LLM-Survey An Awesome Collection for LLM Survey
 32. https://github.com/HqWu-HITCS/Awesome-Chinese-LLM 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 33. [****]  https://github.com/CherryHQ/cherry-studio Cherry Studio is a desktop client that supports for multiple LLM providers.
-34. 
+34. 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.  https://github.com/harry0703/MoneyPrinterTurbo
 
