@@ -68,4 +68,12 @@
 32. https://github.com/HqWu-HITCS/Awesome-Chinese-LLM 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 33. [****]  https://github.com/CherryHQ/cherry-studio Cherry Studio is a desktop client that supports for multiple LLM providers.
 34. 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.  https://github.com/harry0703/MoneyPrinterTurbo
+35. AI 智研社   https://www.ai-blog.cn/
+36. 【05】2025AI人工智能课程精选【125.4GB】 链接： https://pan.quark.cn/s/88ad67c299bd
+37.  全网最好的DeepSeek使用技巧  使用攻略 我都给你们整理好了 链接： https://pan.quark.cn/s/9fbf60177f91
+38.  AI人工智能实用课程（39节课） 链接： https://pan.quark.cn/s/32eadb47ea62
+39.  严伯钧AI精品通识课（81节课完整版）链接： https://pan.quark.cn/s/164c00a87d91
+40. 💻ChatGPT运营秘诀与变现攻略（100节课）链接： https://pan.quark.cn/s/f87cf103f0f0
+41. deepseek清华资料。链接： https://pan.quark.cn/s/3b80c8e5d255
+42. 🔥 AI与ChatGPT相关教学课程大汇总🔥🔥🔥  链接： https://pan.quark.cn/s/1b75759cba5
 
