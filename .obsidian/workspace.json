@@ -11,10 +11,14 @@
             "id": "198cb53ff931e118",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "收集的AI工具网址.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "收集的AI工具网址"
             }
           }
         ]

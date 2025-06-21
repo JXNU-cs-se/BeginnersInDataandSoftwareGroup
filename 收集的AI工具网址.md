@@ -76,4 +76,9 @@
 40. 💻ChatGPT运营秘诀与变现攻略（100节课）链接： https://pan.quark.cn/s/f87cf103f0f0
 41. deepseek清华资料。链接： https://pan.quark.cn/s/3b80c8e5d255
 42. 🔥 AI与ChatGPT相关教学课程大汇总🔥🔥🔥  链接： https://pan.quark.cn/s/1b75759cba5
+43. https://aibook.ren/index 
+44. https://github.com/tangyudi/Ai-Learn 人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理，PyTorch tensorflow machine-learning,deep-learning data-analysis data-mining mathematics data-science artificial-intelligence python tensorflow tensorflow2 caffe keras pytorch algorithm numpy pandas matplotlib seaborn nlp cv等热门领域
+45. https://www.3blue1brown.com/#lessons 动画图示线性代数，AI等
+46. https://www.datawhale.cn/   Datawhale for the learner 。Datawhale通过开源学习模式，助力Al学习者与知识连接，与人连接，与场景连接，推动AI人才培养。【 https://github.com/datawhalechina 】
+47. 
 
