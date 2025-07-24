@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "400bbab34ba1dfa1",
+        "id": "134b8d6bf6499644",
         "type": "tabs",
         "children": [
           {
-            "id": "198cb53ff931e118",
+            "id": "49ca77b760bfa75e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "小组论文发表软著和获奖情况.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "小组论文发表软著和获奖情况"
+              "title": "新标签页"
             }
           }
         ]
@@ -162,11 +158,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "198cb53ff931e118",
+  "active": "49ca77b760bfa75e",
   "lastOpenFiles": [
-    "收集的AI工具网址.md",
     "小组成员介绍.md",
     "小组论文发表软著和获奖情况.md",
+    "收集的AI工具网址.md",
     "各位研究生工作相关推荐论文.md",
     "README.md",
     "数据与软件创新小组基础知识.md",
