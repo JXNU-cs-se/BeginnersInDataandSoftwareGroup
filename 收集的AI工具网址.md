@@ -1,27 +1,29 @@
 收集的deepseek等AI工具网址
 
-1. [****]  **The Document is All You Need！一站式 LLM底层技术原理入门指南 学习** [https://s3tlxskbq3.feishu.cn/docx/NyPqdCKraoXz9gxNVCfcIFdnnAc](https://s3tlxskbq3.feishu.cn/docx/NyPqdCKraoXz9gxNVCfcIFdnnAc) 
-2. [****]  **AI算法工程师手册**  [https://www.huaxiaozhuan.com/](https://www.huaxiaozhuan.com/)
-3. [****] **通往 AGI 之路  学习** [https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?share_token=cb18304f-6ce9-4c56-a28c-537deca552b2](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?share_token=cb18304f-6ce9-4c56-a28c-537deca552b2) 
-4.  优化提示词  [**https://github.com/linshenkx/prompt-optimizer**](https://github.com/linshenkx/prompt-optimizer)
-5. 动手学习pytorch [https://github.com/dsgiitr/d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch)    [https://d2l.ai/](https://d2l.ai/)
-6. https://haystack.deepset.ai/
+1. **一站式AI产品经理入门指南​** **  https://v11enp9ok1h.feishu.cn/wiki/JzbDwD6FnitWP7kgw6icVAKxnvV   本文讨论了一站式 AI 产品经理入门指南，涵盖了 LLM 底层技术原理、人工智能基础、大模型应用、项目案例拆解以及相关资料合集等内容。关键要点包括：​1.LLM 相关知识：包含 LLM 基础、AI Agents（智能体）、大模型（LLM）部署、RAG 实践、提示词工程等方面的学习内容。​2.人工智能基础：有机器学习、动手学深度学习、NLP 基础知识库等资料，帮助建立基础认知。​3.大语言模型教程：从零开始介绍大语言模型原理与实践，包括 NLP 基础概念、Transformer 架构、预训练语言模型等章节。​4.大模型应用：涉及文本预处理、文本分类、情感分析、命名实体识别等 NLP 教程内容。​5.项目案例拆解：有 MCP 实践案例、Agent 优秀案例、AI 智能客服、智能驾驶等案例。​6.实用方法论：提供 AI 产品经理落地实用方法论、产品理解和产品思维相关内容。​7.行业资料：包含 AI 行业报告、产业图谱、产品架构图等资料且持续更新。 ​
+2. https://v11enp9ok1h.feishu.cn/wiki/Af76wZbh4i4YvtkOkDvc56D2nZc  一站式LLM底层技术原理入门指南
+3. [****]  **The Document is All You Need！一站式 LLM底层技术原理入门指南 学习** [https://s3tlxskbq3.feishu.cn/docx/NyPqdCKraoXz9gxNVCfcIFdnnAc](https://s3tlxskbq3.feishu.cn/docx/NyPqdCKraoXz9gxNVCfcIFdnnAc) 
+4. [****]  **AI算法工程师手册**  [https://www.huaxiaozhuan.com/](https://www.huaxiaozhuan.com/)   （[介绍内容](obsidian://open?vault=BeginnersInDataandSoftwareGroup&file=AI%E5%B7%A5%E5%85%B7%E4%BF%A1%E6%81%AF%E8%AF%B4%E6%98%8E%E4%B9%8B%E3%80%8AAI%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%89%8B%E5%86%8C%E3%80%8B)）
+5. [****] **通往 AGI 之路  学习** [https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?share_token=cb18304f-6ce9-4c56-a28c-537deca552b2](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?share_token=cb18304f-6ce9-4c56-a28c-537deca552b2) 
+6.  优化提示词  [**https://github.com/linshenkx/prompt-optimizer**](https://github.com/linshenkx/prompt-optimizer)
+7. 动手学习pytorch [https://github.com/dsgiitr/d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch)    [https://d2l.ai/](https://d2l.ai/)
+8. https://haystack.deepset.ai/
 
-7. https://github.com/deepset-ai/haystack
+9. https://github.com/deepset-ai/haystack
 
-8. https://mcp.so/ 
+10. https://mcp.so/ 
 
-9. [****]  https://github.com/xerrors/Yuxi-Know 基于智能体 RAG 知识库的知识图谱问答系统。Langgraph + VueJS + Flask + Neo4j。大模型适配 OpenAI、Ollama、vLLM、国内主流大模型平台的模型调用。支持推理模型DeepSeek-R1、联网检索、工具调用。
+11. [****]  https://github.com/xerrors/Yuxi-Know 基于智能体 RAG 知识库的知识图谱问答系统。Langgraph + VueJS + Flask + Neo4j。大模型适配 OpenAI、Ollama、vLLM、国内主流大模型平台的模型调用。支持推理模型DeepSeek-R1、联网检索、工具调用。
 
-10. https://github.com/KalyanKS-NLP/llm-engineer-toolkit
+12. https://github.com/KalyanKS-NLP/llm-engineer-toolkit
 
-11. https://agentrxiv.github.io/
+13. https://agentrxiv.github.io/
 
-12. UI-TARS Desktop https://github.com/bytedance/UI-TARS-desktop
+14. UI-TARS Desktop https://github.com/bytedance/UI-TARS-desktop
 
-13. Agent Laboratory: Using LLM Agents as Research Assistants https://github.com/SamuelSchmidgall/AgentLaboratory
+15. Agent Laboratory: Using LLM Agents as Research Assistants https://github.com/SamuelSchmidgall/AgentLaboratory
 
-14.  数据中台
+16.  数据中台
 * https://github.com/alldatacenter/alldata  AllData数据中台
 （https://developer.aliyun.com/article/1526595 （阿里技术网站也有推荐））
 * https://github.com/hashicorp/consul   另一个动态分布式的数据中台

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "134b8d6bf6499644",
+        "id": "d5c45a2893b59971",
         "type": "tabs",
         "children": [
           {
-            "id": "49ca77b760bfa75e",
+            "id": "7f11a45dc5d32617",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,19 +158,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "49ca77b760bfa75e",
+  "active": "7f11a45dc5d32617",
   "lastOpenFiles": [
     "小组成员介绍.md",
-    "小组论文发表软著和获奖情况.md",
+    "AI工具信息说明之《AI算法工程师手册》.md",
     "收集的AI工具网址.md",
-    "各位研究生工作相关推荐论文.md",
-    "README.md",
+    "未命名.canvas",
+    "2025-07-27.md",
     "数据与软件创新小组基础知识.md",
+    "各位研究生工作相关推荐论文.md",
     "硕士阶段开发知识学习清单.md",
+    "小组论文发表软著和获奖情况.md",
+    "README.md",
     "资源文档",
     "资源文档/一整套超实用论文写作模板.pdf",
     "未命名 1.canvas",
-    "未命名.canvas",
     "每日见闻清单.md",
     "每日见闻/Pasted image 20240312201032.png",
     "每日见闻/Pasted image 20240308162019.png",
